@@ -69,5 +69,6 @@ node_modules/
 dist/
 out-tsc/
 serviceAccount.json
+serviceAccount2021.json
 *-adminsdk-*.json
 .DS_Store
