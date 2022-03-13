@@ -1,17 +1,17 @@
 {
   "basepath": "/",
-  "url": "https://iwd-wtm-latam.web.app/",
+  "url": "https://iwd-wtm-latam-2021.web.app/",
   "analytics": "UA-189729631",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyCYpcll7Zfvs3SS4yVQa5muAMxmcpR6HvE",
-    "appId": "1:710667102117:web:8dc89083b5132f7b2bea4c",
-    "authDomain": "iwd-wtm-latam.firebaseapp.com",
-    "databaseURL": "https://iwd-wtm-latam.firebaseio.com",
-    "messagingSenderId": "710667102117",
-    "projectId": "iwd-wtm-latam",
-    "storageBucket": "iwd-wtm-latam.appspot.com",
-    "measurementId": "G-WCTHQR44Q4"
+    "apiKey": "AIzaSyDpgdvyOzq-Kmg_j0QRBCc6LKB9EqRNzOw",
+    "appId": "1:576648936908:web:0da2e07ed40af0044cb169",
+    "authDomain": "iwd-wtm-latam-2021.firebaseapp.com",
+    "databaseURL": "https://iwd-wtm-latam-2021.firebaseio.com",
+    "messagingSenderId": "576648936908",
+    "projectId": "iwd-wtm-latam-2021",
+    "storageBucket": "iwd-wtm-latam-2021.appspot.com",
+    "measurementId": "G-1TXYZ7YJ0W"
   },
   "googleMapApiKey": "AIzaSyCYpcll7Zfvs3SS4yVQa5muAMxmcpR6HvE"
 }
