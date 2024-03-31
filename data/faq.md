@@ -2,7 +2,7 @@
 
 ### Fechas y Ubicación
 
-IWD WTM LATAM 2023 es un evento en línea a reaizarse el 29 de Abril de 2023. Este evento Regional es organizado por más de 20 comunidades de WomenTechmakers, GDG y otras a lo largo y ancho de Latinoamérica con el apoyo del Programa GDG y WTM de Google junto a otros aliados. 
+IWD WTM LATAM 2024 es un evento en línea a reaizarse el sábado 28 de Abril de 2024. Este evento Regional es organizado por más de 20 comunidades de Women Techmakers, GDG y otras a lo largo y ancho de Latinoamérica con el apoyo del Programa GDG y WTM de Google junto a otros aliados. 
 
 ### Mantente Informado
 
@@ -15,6 +15,10 @@ Para estar al tanto de las últimas noticias sobre este evento, esta pendiente d
 - WTM Bolivia / Mujeres TIC'S Bolivia ()
 - WTM Sucre / GDG Sucre ()
 - WTM Tarija / GDG Tarija ()
+
+#### Honduras
+- WTM Chile / GDG Valparaiso ()
+
 
 #### Costa Rica
 - WTM Costa Rica / GDG  Pura Vida ()
@@ -57,7 +61,7 @@ Presentación con beneficios para patrocinadores: https://bit.ly/IWD_LATAM_2022_
 
 ### Registro Gratuito
 
-Puedes registrarte desde ya, usando este enlace: https://gdg.community.dev/events/details/google-gdg-san-pedro-sula-presents-international-womens-day-2023-latam/. El registro es GRATUITO.
+Puedes registrarte desde ya, usando este enlace: https://gdg.community.dev/events/details/google-gdg-arequipa-presents-impact-the-future-international-womens-day-2024/. El registro es GRATUITO.
 
 ### Idioma
 

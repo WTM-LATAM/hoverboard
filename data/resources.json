@@ -1,9 +1,9 @@
 {
-  "title": "IWD WTM LATAM 2023",
-  "description": "El International Women's Day Latam 2023 se realizará el 29 de Abril. Tiene como objetivo reunir mujeres y aliados del mundo de la tecnología, promoviendo el desarrollo de mujeres por medio de charlas inspiradoras y técnicas. El evento será organizado por las embajadoras y miembros de Women Techmakers, GDGs y otras comunidades de América Latina. Festejando el lema 'Dare To Be'.",
+  "title": "IWD WTM LATAM 2024",
+  "description": "El International Women's Day Latam 2024 se realizará el sábado 28 de Abril. Tiene como objetivo reunir mujeres y aliados del mundo de la tecnología, promoviendo el desarrollo de mujeres por medio de charlas inspiradoras y técnicas. El evento será organizado por las embajadoras y miembros de Women Techmakers, GDGs y otras comunidades de América Latina. Festejando el lema 'Impact The Future'.",
   "image": "images/social-share-2023.png",
   "keywords": "event, wtm, iwd, gdg, gde, devfest, google, gcp, programming, android, chrome, polymer, developers, web, cloud, androiddev, ai, firebase",
-  "dates": "29 de Abril de 2023",
+  "dates": "28 de Abril de 2024",
   "partnershipProposition": "",
   "share": "Compartir",
   "followOur": "Sigue nuestro",
@@ -82,7 +82,7 @@
     "title": "Sobre el IWD",
     "callToAction": {
       "featuredSessions": {
-        "description": "El International Women's Day Latam 2023 se realizará el 29 de Abril. Tiene como objetivo reunir mujeres y aliados del mundo de la tecnología, promoviendo el desarrollo de mujeres por medio de charlas inspiradoras y técnicas. El evento será organizado por las embajadoras y miembros de Women Techmakers, GDGs y otras comunidades de América Latina. Festejando el lema 'Dare To Be'.",
+        "description": "El International Women's Day Latam 2024 se realizará el 28 de Abril. Tiene como objetivo reunir mujeres y aliados del mundo de la tecnología, promoviendo el desarrollo de mujeres por medio de charlas inspiradoras y técnicas. El evento será organizado por las embajadoras y miembros de Women Techmakers, GDGs y otras comunidades de América Latina. Festejando el lema 'Impact The Future'.",
         "label": "Más sobre IWD",
         "link": "https://www.womentechmakers.com/events/iwd"
       }
@@ -125,7 +125,7 @@
     "toast": "¡Gracias. Muy pronto estarémos en contacto!"
   },
   "featuredVideos": {
-    "title": "Sintoniza el IWD Latam 2023 #DareToBe",
+    "title": "Sintoniza el IWD Latam 2024 #ImpactTheFuture",
     "callToAction": {
       "label": "Ver todos los videos",
       "link": ""
@@ -168,8 +168,8 @@
     }
   },
   "galleryBlock": {
-    "title": "Contenido destacado de nuestro #IWD2022",
-    "description": "En 2022 el IWD fue organizado y llevado a cabo por varias comunidades de LATAM. Un día lleno de charlas, mucho aprendizaje, inspiración y empoderamiento.",
+    "title": "Contenido destacado de nuestro #IWD2023",
+    "description": "En 2023 el IWD fue organizado y llevado a cabo por varias comunidades de LATAM. Un día lleno de charlas, mucho aprendizaje, inspiración y empoderamiento, festejando el lema #DareToBe.",
     "callToAction": {
       "label": "Mira el sitio de nuestros eventos anteriores",
       "link": "https://iwd-wtm-latam-2021.web.app"
@@ -187,7 +187,7 @@
     "emailAddress": "Dirección de Email",
     "firstName": "Primer Nombre",
     "lastName": "Apellido",
-    "formTitle": "Entérate de noticias importantes sobre el evento IWD LATAM 2021 en tu inbox.",
+    "formTitle": "Entérate de noticias importantes sobre el evento IWD LATAM 2024 en tu inbox.",
     "emailRequired": "Por favor introduce una dirección de email válida.",
     "subscribe": "Subscribirse",
     "subscribed": "Suscrito",
@@ -279,7 +279,7 @@
   },
   "filters": {
     "title": "Filtrar",
-    "results": "Resulados",
+    "results": "Resultados",
     "tags": "Etiquetas",
     "complexity": "Nivel",
     "clear": "Limpiar todo"
