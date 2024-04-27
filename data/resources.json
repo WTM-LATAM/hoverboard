@@ -11,7 +11,7 @@
   "emailUs": "Escríbenos",
   "partnershipResources": "Recursos para Sponsors",
   "eventResources": "Recursos del Evento",
-  "buyTicket": "Inscripción",
+  "buyTicket": "Inscríbete aquí",
   "signIn": "Iniciar sesión",
   "signOut": "Cerrar sesión",
   "viewHighlights": "Ver Destacados",
@@ -107,7 +107,7 @@
     }
   },
   "ticketsBlock": {
-    "title": "Inscripción",
+    "title": "Inscríbete aquí",
     "ticketsDetails": "Inscripción Gratuita",
     "soldOut": "¡Te lo perdiste!",
     "notAvailableYet": "Aun no disponible.",

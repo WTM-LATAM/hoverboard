@@ -18,7 +18,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
           display: block;
           z-index: 1;
           background: rgb(79,195,247);
-          background: linear-gradient(45deg, #4fc3f7, #3061bd, #32b6d2);
+          background: linear-gradient(45deg, #4fc3f7, #C2E6FD, #32b6d2);
           background-size: 400% 200%;
           animation: gradient 15s ease infinite;
           color: var(--primary-text-color);
@@ -52,15 +52,20 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
         }
 
         .nav-items {
-          --paper-tabs-selection-bar-color: #1ce9b6;
+          --paper-tabs-selection-bar-color: #2480f0;
           --paper-tabs: {
             height: 64px;
           }
         }
+        .nav-item:hover {
+          background-color: #1ce9b6;
+          border-radius: 6px;
+          opacity: 0.7
+        }
 
         .nav-item a {
           padding: 0 14px;
-          color: inherit;
+          color: #000;
           text-transform: uppercase;
         }
 
@@ -112,7 +117,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
 
         paper-button iron-icon {
           margin-right: 8px;
-          --iron-icon-fill-color: var(--hero-font-color);
+          --iron-icon-fill-color: currentColor;
         }
 
         .buy-button {
@@ -166,7 +171,10 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <paper-button class="buy-button" primary>{$ buyTicket $}</paper-button>
+          
+            <paper-button class="buy-button" primary>
+            <iron-icon color='white' icon="hoverboard:ticket"></iron-icon>
+            {$ buyTicket $}</paper-button>
           </a>
         </paper-tabs>
 
