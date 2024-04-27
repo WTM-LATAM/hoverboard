@@ -3,7 +3,7 @@
     "name": "IWD WTM LATAM 2024",
     "twitter": "https://twitter.com/LatamLeads",
     "blog": "",
-    "url": "https://www.eventbrite.com.mx/e/562388277477"
+    "url": "https://gdg.community.dev/events/details/google-gdg-arequipa-presents-impact-the-future-international-womens-day-2024/"
   },
   "startDate": "2024-04-28T08:00:00+05:00",
   "endDate": "2024-04-28T17:00:00+05:00",
@@ -53,8 +53,8 @@
     "home": {
       "description": "¡Regístrate ya y no te pierdas este súper evento!",
       "background": {
-        "color": "#4883f3",
-        "image": "/images/backgrounds/home-2023.jpg"
+        "color": "#C2E6FD",
+        "image": ""
       },
       "fontColor": "#FFF"
     },

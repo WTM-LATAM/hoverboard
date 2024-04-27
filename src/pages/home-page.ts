@@ -41,6 +41,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
         }
 
         .info-items {
+          padding-top: 40px;
           margin: 24px auto;
           font-size: 22px;
           color: #000000;
@@ -57,6 +58,8 @@ export class HomePage extends ReduxMixin(PolymerElement) {
 
         .action-buttons paper-button {
           margin: 8px;
+          width: 300px;
+          font-size: 24px;
         }
 
         .action-buttons .watch-video {
@@ -76,7 +79,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
         }
 
         .scroll-down svg {
-          width: 24px;
+          width: 32px;
           opacity: 1;
         }
 
@@ -844,7 +847,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
         <div class="home-content" layout vertical center>
           <plastic-image
             class="hero-logo"
-            srcset="/images/LogoHero2023-1.png"
+            srcset="/images/LogoHero2024.png"
             alt="{$ title $}"
           ></plastic-image>
           <div class="info-items">

@@ -77,8 +77,7 @@ export class HeroBlock extends ThemedElement {
           }
 
           .hero-content {
-            padding-top: 120px;
-            padding-bottom: 60px;
+            padding-top: 60px;
           }
         }
       `,

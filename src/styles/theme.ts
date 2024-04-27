@@ -118,13 +118,18 @@ export const theme = css`
   }
 
   paper-button[primary] { 
-    background-color: #1ce9b6;
-    color: #000;
+    background-color: #2480f0;
+    color: #fff;
+    border-radius: 6px;
+    font-weight: 700;
+    
+
   }
 
   paper-button[primary]:hover {
-    background-color: #000;
-    color: #fff;
+    background-color: #1ce9b6;
+    color: #000;
+    border-radius: 6px;
   }
 
   paper-button[primary][invert] {
